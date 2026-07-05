@@ -28,3 +28,9 @@
 - 文章內文圖片
 - 留言中的圖片
 - 文章頁下方「延伸閱讀」卡片圖片
+
+## 參考
+
+要是上班時間給你的同事看到你在逛巴哈那大概會很有趣呢!
+
+<img width="1655" height="1046" alt="image" src="https://github.com/user-attachments/assets/a3238412-6afd-400e-93e6-49f44b5dda90" />
